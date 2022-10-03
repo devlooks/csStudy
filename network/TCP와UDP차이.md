@@ -39,3 +39,6 @@
 - 패킷 내부의 손상된 데이터(UDP, TCP 모두 체크섬 기반으로 체크)
 
 - 체크섬 : 헤더 패킷 내용 IP 등을 기반으로 체크섬을 만들어 패킷 내부의 데이터 손상 파악
+
+![image](https://user-images.githubusercontent.com/60064392/193546278-9f497302-918e-4591-a4e9-e6d6da01fa82.png)
+
