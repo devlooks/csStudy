@@ -8,11 +8,14 @@
 
 - 컨텍스트 종료
 
-1. contextual information
+  1. contextual information
 
-: ex) 병원의 이름과 주민 등록 번호
-: ex) Http Header 내용
+  : ex) 병원의 이름과 주민 등록 번호
 
-2. context
-: ex) 병원 방문 하는것.
-: ex) Http 요청
+  : ex) Http Header 내용
+
+  2. context
+  
+  : ex) 병원 방문 하는것.
+
+  : ex) Http 요청
