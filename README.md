@@ -13,6 +13,6 @@ CS지식 정리하는 깃입니다.
 
 ## 웹프로그래머를 위한 서블릿 컨테이너의 이해
 
-Unit 2 ~ Unit 10 
+Unit 2 (완료) 
 
 ![image](https://user-images.githubusercontent.com/60064392/200582403-6d47459e-e4a1-4bcc-a213-0d52c78efd31.png)
