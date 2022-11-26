@@ -17,5 +17,6 @@ Unit 2 (완료)
 Unit 3 (완료)   
 Unit 4 (완료)   
 Unit 5 (완료)   
+Unit 6 (완료)
 
 ![image](https://user-images.githubusercontent.com/60064392/200582403-6d47459e-e4a1-4bcc-a213-0d52c78efd31.png)
