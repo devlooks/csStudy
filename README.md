@@ -21,3 +21,14 @@ Unit 6 (완료)
 Unit 7 (완료)
 
 ![image](https://user-images.githubusercontent.com/60064392/200582403-6d47459e-e4a1-4bcc-a213-0d52c78efd31.png)
+
+## 성공과 실패를 결정하는 1%의 네트워크 원리
+
+chapter_01
+chapter_02
+chapter_03
+chapter_04
+chapter_05
+chapter_06
+
+![image](https://user-images.githubusercontent.com/60064392/233821243-4bef59ce-24cf-4c37-9fdc-c70b7c9e32ac.png)
