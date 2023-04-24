@@ -24,7 +24,7 @@ Unit 7 (완료)
 
 ## 성공과 실패를 결정하는 1%의 네트워크 원리 - 진행중
 
-chapter_01  
+chapter_01 (완료)  
 chapter_02  
 chapter_03  
 chapter_04  
