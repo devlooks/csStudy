@@ -20,7 +20,7 @@ Unit 5 (완료)
 Unit 6 (완료)  
 Unit 7 (완료)  
 소스 정리 (미완료)  
-정리 퀴즈 (미완료)  
+복습 퀴즈 (미완료)  
 
 ![image](https://user-images.githubusercontent.com/60064392/200582403-6d47459e-e4a1-4bcc-a213-0d52c78efd31.png)
 
@@ -33,7 +33,7 @@ chapter_04 : 액세스 회선을 통해 인터넷의 내부로!_액세스 회선
 chapter_05 : 서버측의 LAN에는 무엇이 있는가?_방화벽과 캐시 서버의 탐험                          (완료)   
 chapter_06 : 웹 서버에 도착하여 응답 데이터가 웹 브라우저로 돌아간다_불과 몇 초인 '긴 여행'의 끝  (완료)  
 
-챕터별 정리 퀴즈 (미완료)  
+챕터별 복습 퀴즈 (미완료)  
 
 ![image](https://user-images.githubusercontent.com/60064392/233821296-bf1f5f5e-1905-45e8-b0f0-ce04ecfd7f1b.png)
 
@@ -57,6 +57,8 @@ chapter_06 : 웹 서버에 도착하여 응답 데이터가 웹 브라우저로 
 16장  
 17장  
 18장  
+
+챕터별 복습 퀴즈 
 
 ![image](https://user-images.githubusercontent.com/60064392/236477929-ed74d0ab-5d97-419e-bdc6-02e587354b47.png)
 
