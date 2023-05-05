@@ -1,5 +1,5 @@
 # csStudy
-CS지식 정리하는 깃입니다.
+CS지식 및 책 정리하는 깃입니다.
 
 
 ## 인프런강의 - 완료
@@ -32,3 +32,27 @@ chapter_05 : 서버측의 LAN에는 무엇이 있는가?_방화벽과 캐시 서
 chapter_06 : 웹 서버에 도착하여 응답 데이터가 웹 브라우저로 돌아간다_불과 몇 초인 '긴 여행'의 끝  (완료)  
 
 ![image](https://user-images.githubusercontent.com/60064392/233821296-bf1f5f5e-1905-45e8-b0f0-ce04ecfd7f1b.png)
+
+## 자바의 신 - 예정
+
+1장  
+2장  
+3장  
+4장  
+5장  
+6장  
+7장  
+8장  
+9장  
+10장  
+11장  
+12장  
+13장  
+14장  
+15장  
+16장  
+17장  
+18장  
+
+![image](https://user-images.githubusercontent.com/60064392/236477929-ed74d0ab-5d97-419e-bdc6-02e587354b47.png)
+
